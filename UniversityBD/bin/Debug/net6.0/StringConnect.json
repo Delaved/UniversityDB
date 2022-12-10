@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-1QVR0M3; Database=UniversityDb; Trusted_Connection=True; TrustServerCertificate = true;"
+  }
+}
